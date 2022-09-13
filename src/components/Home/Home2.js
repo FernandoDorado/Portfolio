@@ -20,7 +20,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I consider myself passionate about the world of Artificial Intelligence, Data and the development of the necessary infrastructure to create models that bring real value to a development. That is why I am professionally dedicated to the field of MLOps. 
+              I consider myself passionate about the world of Artificial Intelligence, Data, Infrastructure and DevOps. I am currently working as an MLOps engineer, focusing on pipeline development and managing the infrastructure required to develop AI applications. 
               <br />
               <br />
               To be able to dedicate myself to this field, I had to gain some previous experience as a Data Scientist, ML Engineer, Backend Engineer, Data Engineer, DevOps Engineer and Software Engineer, making a hard effort to understand the whole ecosystem. 
