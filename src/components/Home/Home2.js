@@ -23,7 +23,7 @@ function Home2() {
               I consider myself passionate about the world of Artificial Intelligence, Data, Infrastructure and DevOps. I am currently working as an MLOps engineer, focusing on pipeline development and managing the infrastructure required to develop AI applications. 
               <br />
               <br />
-              To be able to dedicate myself to this field, I had to gain some previous experience as a Data Scientist, ML Engineer, Backend Engineer, Data Engineer, DevOps Engineer and Software Engineer, making a hard effort to understand the whole ecosystem. 
+              To be able to dedicate myself to this field, I had to gain some previous experience as a Data Scientist, ML Engineer, Data Engineer, DevOps Engineer and Software Engineer, making a hard effort to understand the whole ecosystem. 
               <br />
               <br />I am fluent in classics like
               <i>
