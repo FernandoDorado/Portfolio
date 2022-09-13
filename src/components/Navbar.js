@@ -96,7 +96,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumya-jit.tech/"
+                href="https://www.linkedin.com/in/fernando-dorado-rueda/"
                 target="_blank"
                 rel="noreferrer"
               >
